@@ -1,6 +1,23 @@
 # smart-house-sql
 
-This project demonstrates SQL concepts using PostgreSQL within a Java application managed by Maven. 
-It is designed to showcase database schema design, SQL queries, and integration with Java code. 
-The main focus is on writing, executing, and understanding SQL statements in a real-world context. 
-All dependencies and build steps are handled via Maven for easy setup and reproducibility.
+## Project Overview
+
+This project is designed to showcase core SQL concepts using PostgreSQL, with a primary focus on database design and 
+implementation. Built with Java and Maven, it serves as an educational resource for understanding foundational SQL 
+techniques, including schema creation, data manipulation, and query optimization.
+
+## Purpose
+
+The main goal is to provide practical examples and best practices for working with relational databases. Through this project,
+users will learn how to design robust database systems and apply essential SQL operations in a real-world context.
+
+## Educational Focus
+
+- Core foundations of SQL
+- PostgreSQL integration
+- Database schema design
+- Data manipulation and querying
+- Best practices for relational database systems
+
+This project is intended for educational purposes and aims to help learners build a strong foundation in SQL and database 
+design.
